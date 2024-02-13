@@ -1,3 +1,7 @@
-# mywork
+# My Work
 
-**By Tomasz Uszysnki**
+**By Tomasz Uszynski**
+
+I study at [ATU](https://www.atu.ie).
+
+![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
