@@ -1,4 +1,3 @@
 # mywork
-***
 
 **By Tomasz Uszysnki**
